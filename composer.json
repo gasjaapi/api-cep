@@ -1,11 +1,11 @@
 {
   "name" : "gasja/api-cep",
-  "description" : "Módulo Cep REST/RPC para API",
+  "description" : "Módulo Cep REST/RPC para APIs",
   "require" : {
     "php" : "^5.5 || ^7.0"
   },
   "license" : "MIT",
-  "keywords" : [ "module", "zf2", "api", "cep" ],
+  "keywords" : [ "module", "zf3", "api", "cep" ],
   "autoload" : {
     "psr-0" : {
       "APICep" : "src/"
@@ -18,5 +18,5 @@
     "email" : "hermes.sergio@gmail.com",
     "role" : "Software Architect"
   } ],
-  "homepage" : "https://gitlab.com/gasja/api-cep"
+  "homepage" : "https://github.com/gasjaapi/api-cep"
 }
