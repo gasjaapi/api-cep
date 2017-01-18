@@ -10,7 +10,7 @@ return array(
             'api-cep.rpc.cep' => array(
                 'type' => 'Segment',
                 'options' => array(
-                    'route' => '/cep',
+                    'route' => '/api/cep',
                     'defaults' => array(
                         'controller' => 'APICep\\V1\\Rpc\\Cep\\Controller',
                         'action' => 'index',
