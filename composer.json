@@ -1,5 +1,5 @@
 {
-  "name" : "gasja/api-cep",
+  "name" : "gasjaapi/api-cep",
   "description" : "Módulo Cep REST/RPC para APIs",
   "require" : {
     "php" : "^5.5 || ^7.0"
