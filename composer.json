@@ -1,0 +1,22 @@
+{
+  "name" : "gasja/api-cep",
+  "description" : "Módulo Cep REST/RPC para API",
+  "require" : {
+    "php" : "^5.5 || ^7.0"
+  },
+  "license" : "MIT",
+  "keywords" : [ "module", "zf2", "api", "cep" ],
+  "autoload" : {
+    "psr-0" : {
+      "APICep" : "src/"
+    }
+  },
+  "type" : "library",
+  "authors" : [ {
+    "name" : "Sérgio Ernane Munhós Hermes",
+    "homepage" : "https://github.com/sergiohermes",
+    "email" : "hermes.sergio@gmail.com",
+    "role" : "Software Architect"
+  } ],
+  "homepage" : "https://gitlab.com/gasja/api-cep"
+}
