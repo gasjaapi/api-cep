@@ -10,3 +10,4 @@ composer.lock
 /vendor/
 composer.phar
 /deployment.properties
+/deployment.xml
